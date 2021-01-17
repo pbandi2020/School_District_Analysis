@@ -14,23 +14,20 @@ All of the above metric are key decision points for leaddership in making dedcsi
 
 # Results
 ### School Data Analysis Report
-1.  District summary affected - When the leadership looks at this data the overall success rate is below 65% and the average scores are not very promising or competivite. Looking at this data the leadership cannot really make any operational changes. This data is a 10,000 foot view and not enough metric to help make business decisions bt just enough to question on next level of information needed.
-2.  School summary affected - This is a good overview of overall performance by school but just not enough information for leadership to say why certain school is performing well and why others are not. This is where slicing the grades by grade, school size, etc woudl help take a deeper look to analyze the performance trends and performance a gap analysis.
-3.  Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools - As the board though the data reported for THS was not accurate and removed the 9th grade grades improved the performance scale by 25% which shows a positive trent and narrows the problem area to focus on.
-4.  How does replacing the ninth-grade scores affect the following(Math & Readding grades, School Spending, School Size & Type):
+1.  **District summary affected** - When the leadership looks at this data the overall success rate is below 65% and the average scores are not very promising or competivite. Looking at this data the leadership cannot really make any operational changes. This data is a 10,000 foot view and not enough metric to help make business decisions but just enough to question on next level of information needed.
+2.  **School summary affected** - This is a good overview of overall performance by school but just not enough information for leadership to say why certain school is performing well and why others are not. This is where slicing of scores by grade, school size, etc would help take a deeper look to analyze the performance trends and performance a gap analysis.
+3.  **Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools** - As the board though the data reported for THS was not accurate and removed the 9th grade scores improved the performance scale by 25% which shows a positive trent and narrows the problem area to focus on.
+4.  **Replacing the ninth-grade scores affect the following(Math & Readding grades, School Spending, School Size & Type):** Removing of 9th grade scores for THS has no impact on School Size, Type and Spending analysis report. Math & Reading scores are the only area affected and the affect is postive trend and helps leadership focus relooking at 9th grade for THS.
 
-                                                                                                                                                                      
+                                                                                                                                                                     
 ### Challenges and Difficulties Encountered
-* I am fairly new to Python programming and hence getting the right syntax, understanding the error and debugging was the most challenging part of this exercise but the exampled is the module was very helpful in getting to completion of the project. 
+* Syntax and understing the logical flow was the most challenging part. Some of the instructions were very confusing.
 
 ### Summary
-#### *Summary based on the data available*
-* Total Casted Votes is **306,055**
-* County that received highest turnoround is **Denver**
-* Winner of the election is **Diana DeGette**
+1. By replacing the 9th grade scores for math and reading in Thomas high school the school was moved up to 2nd place in the overall district performance trent
+2. The Overall success rate for THS went up from 64% to 90%
+3. Math success rate for THS went up from 66% to 93%
+4. Reading success rate for THS went up from 69% to 97%
 
-#### *Additional data points for future enahancement and what are it's benefits*
-1. To be accurate in determining a winner, the candidate results must be broken by 2 dimensions (county & candidate).
-2. Candidate do not contest in multiple counties but, our result by candidate is taking all counties into account when determining a winner for Colorado. Hence declaring a winner by total registered votes across counties is not a proper way of determining a winner of the elections. 
-3. Fianlly, since we do not know how many registered voters are there is each county, we cannot really determine the percentage of votes recorded. In other words **Expected Vs Registered**
+
 
