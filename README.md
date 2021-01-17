@@ -14,14 +14,11 @@ All of the above metric are key decision points for leaddership in making dedcsi
 
 # Results
 ### School Data Analysis Report
-1.  How is the district summary affected?
-2.  How is the school summary affected?
-3.  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-4.  How does replacing the ninth-grade scores affect the following:
-5.  Math and reading scores by grade
-6.  Scores by school spending
-7.  Scores by school size
-8.  Scores by school type
+1.  District summary affected - When the leadership looks at this data the overall success rate is below 65% and the average scores are not very promising or competivite. Looking at this data the leadership cannot really make any operational changes. This data is a 10,000 foot view and not enough metric to help make business decisions bt just enough to question on next level of information needed.
+2.  School summary affected - This is a good overview of overall performance by school but just not enough information for leadership to say why certain school is performing well and why others are not. This is where slicing the grades by grade, school size, etc woudl help take a deeper look to analyze the performance trends and performance a gap analysis.
+3.  Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools - As the board though the data reported for THS was not accurate and removed the 9th grade grades improved the performance scale by 25% which shows a positive trent and narrows the problem area to focus on.
+4.  How does replacing the ninth-grade scores affect the following(Math & Readding grades, School Spending, School Size & Type):
+
                                                                                                                                                                       
 ### Challenges and Difficulties Encountered
 * I am fairly new to Python programming and hence getting the right syntax, understanding the error and debugging was the most challenging part of this exercise but the exampled is the module was very helpful in getting to completion of the project. 
