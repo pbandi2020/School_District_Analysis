@@ -8,7 +8,7 @@ This project is focused on providing a School District Summary to the district l
 4. View of budget allocated per school and per student and compare the success trent to help make next fiscal year budget decisions
 5. View of success rate by school size 
 
-All of the above metric are key decision points for leaddership in making decisions to help improve the overall district school rating and improving the quality of education and achiving the goal of no child left behind objective.
+All of the above metric are key decision points for leadership in making decisions to help improve the overall district school rating, improve the quality of education and achive the goal of no child left behind objective.
   
 
 
