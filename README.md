@@ -4,7 +4,7 @@ This project is focused on providing a School District Summary to the district l
 
 1. View overall district performance based on students succcess rate. 
 2. View of success rate by school to help analyze which school is falling behind.
-3. View of scusses rate by school & grade level to help analyze where is the gap and why? 
+3. View of success rate by school & grade level to help analyze where is the gap and why? 
 4. View of budget allocated per school and per student and compare the success trent to help make next fiscal year budget decisions
 5. View of success rate by school size 
 
