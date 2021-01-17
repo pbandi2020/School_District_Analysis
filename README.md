@@ -8,14 +8,14 @@ This project is focused on providing a School District Summary to the district l
 4. View of budget allocated per school and per student and compare the success trent to help make next fiscal year budget decisions
 5. View of success rate by school size 
 
-All of the above metric are key decision points for leaddership in making dedcsions to help improve the overall district school rating and improving the quality of education and achiving the goal of no child left behind objective.
+All of the above metric are key decision points for leaddership in making decisions to help improve the overall district school rating and improving the quality of education and achiving the goal of no child left behind objective.
   
 
 
 # Results
 ### School Data Analysis Report
 1.  **District summary affected** - When the leadership looks at this data the overall success rate is below 65% and the average scores are not very promising or competivite. Looking at this data the leadership cannot really make any operational changes. This data is a 10,000 foot view and not enough metric to help make business decisions but just enough to question on next level of information needed.
-2.  **School summary affected** - This is a good overview of overall performance by school but just not enough information for leadership to say why certain school is performing well and why others are not. This is where slicing of scores by grade, school size, etc would help take a deeper look to analyze the performance trends and performance a gap analysis.
+2.  **School summary affected** - This is a good overview of overall performance by school but just not enough information for leadership to say why certain school is performing well and why others are not. This is where slicing of scores by grade, school size, etc would help take a deeper look to analyze the performance trends and perform a gap analysis.
 3.  **Replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools** - As the board though the data reported for THS was not accurate and removed the 9th grade scores improved the performance scale by 25% which shows a positive trent and narrows the problem area to focus on.
 4.  **Replacing the ninth-grade scores affect the following(Math & Readding grades, School Spending, School Size & Type):** Removing of 9th grade scores for THS has no impact on School Size, Type and Spending analysis report. Math & Reading scores are the only area affected and the affect is postive trend and helps leadership focus relooking at 9th grade for THS.
 
