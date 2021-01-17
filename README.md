@@ -13,12 +13,15 @@ All of the above metric are key decision points for leaddership in making dedcsi
 
 
 # Results
-### Election Analysis Report
-#### *All of our challenge 3 election data analysis is based on a single dimension. Here is a summary of our challenge result set.*
-* Based on the total casted votes, the county that received the most popular votes is **Denver**. Over **82%** of votes were recorded in this county and as per our analysis the winner of the election is **Diana DeGette** who received **272,892** votes of the total received popular votes of **306,055** casted across all counties. The break down of the results are written to a text file and is avaibale for review. Refer to the following path to access the output report **Analysis\election_results.txt** and when executing the program the same is printed to the terminal. 
-
-<img src=/Analysis/Terminal_output.png alt="Runtime Analysis Report"/>
- 
+### School Data Analysis Report
+1.  How is the district summary affected?
+2.  How is the school summary affected?
+3.  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+4.  How does replacing the ninth-grade scores affect the following:
+5.  Math and reading scores by grade
+6.  Scores by school spending
+7.  Scores by school size
+8.  Scores by school type
                                                                                                                                                                       
 ### Challenges and Difficulties Encountered
 * I am fairly new to Python programming and hence getting the right syntax, understanding the error and debugging was the most challenging part of this exercise but the exampled is the module was very helpful in getting to completion of the project. 
